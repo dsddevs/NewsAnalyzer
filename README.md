@@ -1,5 +1,5 @@
 <h1 style="color: royalblue; font-size: 27px;">
- NEWS-ANALYZER PROJECT
+ New Analyzer
 </h1>
 
 <div>
